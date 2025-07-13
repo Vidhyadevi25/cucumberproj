@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="240" started-at="2025-07-04T07:59:33Z" finished-at="2025-07-04T07:59:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="240" started-at="2025-07-04T07:59:33Z" finished-at="2025-07-04T07:59:33Z">
+      <class name="com.lao.json_path_with_java.RreadingJsonDocument">
+        <test-method status="PASS" signature="fluentAPI()[pri:0, instance:com.lao.json_path_with_java.RreadingJsonDocument@15c43bd9]" name="fluentAPI" duration-ms="131" started-at="2025-07-04T13:29:33Z" finished-at="2025-07-04T13:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fluentAPI -->
+        <test-method status="PASS" signature="parseOneTime()[pri:0, instance:com.lao.json_path_with_java.RreadingJsonDocument@15c43bd9]" name="parseOneTime" duration-ms="13" started-at="2025-07-04T13:29:33Z" finished-at="2025-07-04T13:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parseOneTime -->
+        <test-method status="PASS" signature="readJson()[pri:0, instance:com.lao.json_path_with_java.RreadingJsonDocument@15c43bd9]" name="readJson" duration-ms="9" started-at="2025-07-04T13:29:33Z" finished-at="2025-07-04T13:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readJson -->
+        <test-method status="PASS" signature="readJson2()[pri:0, instance:com.lao.json_path_with_java.RreadingJsonDocument@15c43bd9]" name="readJson2" duration-ms="44" started-at="2025-07-04T13:29:33Z" finished-at="2025-07-04T13:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readJson2 -->
+      </class> <!-- com.lao.json_path_with_java.RreadingJsonDocument -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
